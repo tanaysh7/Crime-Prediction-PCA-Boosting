@@ -9,10 +9,10 @@ Communities in the US. Data combines socio-economic data from the '90 Census, la
 Language : Python
 
 
-Finally, the MSE values from our different models are :
+Finally, the MSE values from the different models are :
 
-- Linear Regression-0.79
-- Ridge-0.0175
-- Lasso(both)-0.0178
+- Linear Regression- 0.79
+- Ridge- 0.0175
+- Lasso- 0.0178
 - PCR- 0.0181
 - XGBoost- 0.0163
